@@ -15,9 +15,9 @@
 - BiliBili [@吉王义昊](https://space.bilibili.com/449671034)
 
 ## Status
-[![github stats](https://github-readme-stats.vercel.app/api?username=jiwangyihao&show_icons=true)](https://github.com/jiwangyihao)
+[![github stats](https://github-readme-stats-murex-nine.vercel.app/api?username=jiwangyihao&show_icons=true)](https://github.com/jiwangyihao)
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwangyihao&layout=compact)](https://github.com/jiwangyihao)
+[![top langs](https://github-readme-stats-murex-nine.vercel.app/api/top-langs/?username=jiwangyihao&layout=compact)](https://github.com/jiwangyihao)
 
 <!--
 **jiwangyihao/jiwangyihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
